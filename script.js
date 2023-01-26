@@ -1,1 +1,1 @@
-document.body.innerHTML = '<h1>Hello from JavaScripts</h1>'
+document.body.innerHTML = '<h1>Hello from </h1>'
